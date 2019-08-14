@@ -1,0 +1,8 @@
+M:model模型层 dao模式和service层
+V:view视图层 jsp页面
+C:control控制层 servlet  1.接收页面的参数  2.调用业务层  3.跳转页面
+
+jsp--servlet--service--dao：都是以接口的方式调用
+
+EL表达式
+Jstl标准标签
